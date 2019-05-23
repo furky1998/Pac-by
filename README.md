@@ -1,6 +1,3 @@
-# Pac-by
-
-Creat per Grau Codinach i Eloi Forcada
-
-Aquest joc es basa en la la mecànica del pacman en la qual ets un personatge (jugador de rugby) recorrent un laberint on has d'aconseguir punts els quals són pilotes de rugby i ets perseguit per un o diversos enemics segons el nivell. 
-El jugador es mou amb les tecles A,S,W,D les quals fan anar en la direcció que vols dins del laberint, del qual no en pots sortir
+# Pacby
+Joc creat per Eloi Forcada i Grau Codinach
+En aquest joc, les instruccions són bàsiques i senzilles, s'utilitzen les fletxes del teclat en la posició dreta per poder moure el personatge, la fletxa que s'enyala cap amunt fara que el jugador de rugby vaigi cap amunt de la pantalla, la fletxa de sota serveix perqué el personatge vaigi cap a baix i les dues fletxes del costat esquerra i dret perqué el personatge vaigi en aquestes direccions. Tot i així el moviment estarà limitat per les parets, o sigui que si tens una paret dalt de tot i apretes la fletxa per anar cap amunt, no t'hi deixarà anar i aixi amb tots els moviments.
